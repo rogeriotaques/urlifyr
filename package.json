@@ -1,0 +1,32 @@
+{
+  "name": "urlifyr",
+  "version": "0.1.0",
+  "description": "The simplest way to get an URL ready string.",
+  "keywords": [
+    "url",
+    "urlify",
+    "slug",
+    "slugify"
+  ],
+  "homepage": "https://github.com/rogeriotaques/urlifyr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rogeriotaques/urlifyr.git"
+  },
+  "main": "urlifyr.js",
+  "author": "Rogerio Taques",
+  "license": "MIT",
+  "files": [
+    "urlifyr.js",
+    "urlifyr.d.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "types": "urlifyr.d.ts",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
