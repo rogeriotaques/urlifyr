@@ -65,4 +65,4 @@ This package is made on my spare time. If you find something wrong or think ther
 
 Thank you! 🙏
 
-[npm-version]: https://img.shields.io/npm/v/urlifyrr.svg?style=flat-square (NPM Package Version)
+[npm-version]: https://img.shields.io/npm/v/urlifyr.svg?style=flat-square (NPM Package Version)
