@@ -66,3 +66,9 @@ This package is made on my spare time. If you find something wrong or think ther
 Thank you! 🙏
 
 [npm-version]: https://img.shields.io/npm/v/urlifyr.svg?style=flat-square (NPM Package Version)
+
+## Credits
+
+This project is a fork from [Urlifyjs](https://github.com/danielkov/urlifyjs) by Daniel Emod Kovacs.
+
+The original project seems not to be mainteined anymore, since it was last updated 6 years ago (as of May 10th, 2022).
